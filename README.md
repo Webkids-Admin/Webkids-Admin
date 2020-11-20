@@ -12,6 +12,8 @@
 
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+Our name is webkids.dev, we are a humble startup providing easy to use web/desktop applications and support.
+
 <!-- My name is Emily, and I like to code as a hobby, I make everything from websites to not so powerful applications in many languages.
 You will see me commit a few things here and there, but the majority of my repositories are private for personal use between systems.
 Have a look around if you find anything interesting or not. -->
